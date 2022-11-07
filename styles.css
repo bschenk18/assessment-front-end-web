@@ -38,6 +38,7 @@ img {
 	
 }
 button {
+	height: 50px;
 	font-size: medium;
 	background-color: yellow
 }
